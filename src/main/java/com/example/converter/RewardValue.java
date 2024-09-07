@@ -1,4 +1,4 @@
-package com.example.converter;  // Adjust this to match your package structure
+package com.example.converter;
 
 public class RewardValue {
     private double cashValue;
